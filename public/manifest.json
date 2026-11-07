@@ -1,15 +1,21 @@
 {
-  "name": "Sontoloyo AI",
-  "short_name": "Sontoloyo AI",
-  "description": "Sontoloyo AI - AI Chatbot untuk blog adi-muhamad.my.id",
+  "name": "arther-AI asisten",
+  "short_name": "arther-AI",
+  "description": "Asisten AI pribadi untuk membantu menjawab pertanyaan dengan ramah dan cerdas.",
   "display": "standalone",
   "start_url": "/",
   "scope": "/",
   "orientation": "portrait",
-  "theme_color": "#2563eb",
-  "background_color": "#0f172a",
+  "theme_color": "#14213d",
+  "background_color": "#f5f7fc",
   "categories": ["productivity", "utilities"],
   "icons": [
+    {
+      "src": "/brand-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
     {
       "src": "/icons/icon-72x72.png",
       "sizes": "72x72",
